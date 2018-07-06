@@ -6,7 +6,7 @@ A simple PHP library to translate text using Google Translator API. Totally free
 2. Then, use it where you want!  
 `translate( _text to translate_ , _from lang_ , _to lang_ )`  
 ### Exemple
-> test.php   
+test.php   
 `<?php`  
 `include "gTranslator.php";`  
 `echo translate('Ciao!', 'it', 'en');`  
